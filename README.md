@@ -1,4 +1,4 @@
-#Distributed_UDP_System
+# Distributed_UDP_System
 The application is a Distributed Averaging System (DAS) that runs as a Java program using UDP communication. It operates in two modes:
 
 Master Mode:
